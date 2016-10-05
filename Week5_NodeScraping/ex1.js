@@ -16,7 +16,7 @@ var port = 8000;
 // 	}
 // });
 
-var destination = fs.createWriteStream('download/mywebsite.html');
+var destination = fs.createWriteStream('download/oreilly.html');
 var url = "http://jiyeonk.com";
 request(url, function(url)
 .pipe(destination)

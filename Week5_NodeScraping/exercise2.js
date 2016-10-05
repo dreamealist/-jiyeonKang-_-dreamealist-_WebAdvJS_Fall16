@@ -24,13 +24,13 @@ var loadNewPage = function(url, page){
             var $ = cheerio.load(html);
             var p = $('.cover');
             for(var i = 0; i < p.length; i++){
-                var imgSrc = 'http://shop.oreilly.com/category/' + $(p[i]).children('img').attr('src');
+                var imgSrc = 'http://jiyeonk.com' + $(p[i]).children('img').attr('src');
                 imgUrls.push(imgSrc);
             }
         }
 
         // Pagination
-        var nPages = $('.issuesNavigationTop').children('a').length + 1;
+        var nPages = $('.main-content').children('a').length + 1;
 
         // 1st page
         if(page === undefined){
