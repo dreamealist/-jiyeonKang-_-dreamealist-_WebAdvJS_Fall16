@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,900" rel="stylesheet">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- <script src="script.js"></script> -->
+<!-- <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.4/d3.min.js"></script> -->
+
+
+<title>Green Smoothie</title>
+
+
+<!-- <script>
+$(document).ready(function () {
+  $('#get-data').click(function () {
+    var showData = $('#show-data');
+    $.getJSON('fitbit.json', function (data) {
+      console.log(data);
+
+      var items = data.items.map(function (item) {
+        return item.key + ': ' + item.value;
+      });
+
+      showData.empty();
+
+      if (items.length) {
+        var content = '<li>' + items.join('</li><li>') + '</li>';
+        var list = $('<ul />').html(content);
+        showData.append(list);
+      }
+    });
+
+    showData.text('Loading the JSON file.');
+  });
+});
+</script> -->
+</head>
+<body>
+  <script>
+  $.getJSON('fitbit.json', function(data) {
+      console.log('It worked!');
+      // data is a JavaScript object now. Handle it as such
+
+  });
+  </script>
+
+<div class="The w3-padding-xxlarge">
+
+<div id="header"><h1><font-family:Roboto>Green Smoothies!</font></h1>
+<p1><font size=2>This web application will offer you helpful hints and fantastic recipe ideas to set up on green drinks for life!<br>
+    Whether you want to lose weight, fight fatigue, combat disease, or just be healthier, <br>adding green drinks into your diet will slowly transform your health for the better. </p1>
+</font>
+    <img src="images/logo.svg" alt="Green Smoothies!">
+</div>
+
+<div class="The w3-padding-xlarge">
+<h2>Top six green smoothis benefits</h2>
+<p2> <b>Smoothies can</b><br><br>
+1. Cleanse and detox your body, as well as balance acid and alkaline levels, <br>helping to prevent disease and heal existing health problems.<br>
+2. Help you to replace your caffeine fix with a natural energy boost.<br>
+3. Benefit kids who perhaps are not that keen on vegetables-<br>you can hide the vegetables in with their favorit fruits.<br>
+4. Give you energy from the anti-oxidants and phytochemicals present.<br>
+5. Provide for a healthy snack or a meal replacement.<br>
+6. Help purify your blood becasue they are packed full of vitamins, enzymes, and chlorophy11.<br>
+</div>
+
+</p2>
+
+<div class="The w3-padding-xlarge">
+
+<div id="show-data"></div>
+<div id="get-data"></div>
+
+  <div id="supergreen">
+<h2>Super Greens</h2>
+<input type="button" class="button" id="Basil" value="Basil">
+<input type="button" class="button" id="Bok choy" value="Bok choy">
+<input type="button" class="button" id="Cabbage" value="Cabbage">
+<input type="button" class="button" id="Broccoli" value="Broccoli">
+<input type="button" class="button" id="Celery" value="Celery">
+<input type="button" class="button" id="Chard" value="Chard">
+<input type="button" class="button" id="Dandelion greens" value="Dandelion greens">
+<input type="button" class="button" id="Green pepper" value="Green pepper">
+<input type="button" class="button" id="Kale" value="Kale">
+<input type="button" class="button" id="Cilantro" value="Cilantro">
+<input type="button" class="button" id="Argula" value="Argula">
+<input type="button" class="button" id="Spinach" value="Spinach">
+<input type="button" class="button" id="Parsely" value="Parsely">
+<input type="button" class="button" id="Romaine" value="Romaine">
+<input type="button" class="button" id="Mint" value="Mint">
+<input type="button" class="button" id="Watercress" value="Watercress">
+
+
+</div>
+</div>
+</div>
+
+
+
+</body>
+
+</html>

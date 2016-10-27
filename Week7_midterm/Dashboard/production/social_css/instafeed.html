@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+        <title>instagram feed</title>
+
+<script src="instafeed/instafeed.min.js" type="text/javascript"></script>
+
+
+   <script type="text/javascript">
+    var weather = new Instafeed({
+        get: 'user',
+        userId: '71a135d3fd7e98228b26444571f7245a',
+        accessToken: 'YOUR_ACCESS_TOKEN'
+    });
+    userFeed.run();
+</script>
+
+<script>
+function onYouTubePlayerAPIReady() 
+{
+        player = new YT.Player('player', 
+        {
+          height: '390',
+          width: '640',
+          playerVars: 
+          {
+            listType:'playlist',
+            list: '<PLa5S6UwF22IJD7HtxPsF5bAMIoXvMQv8l>'
+          }
+        });
+}
+</script>
+
+
+</head>
+<body>
+<div id="wrapper">
+    <div id="insta-wrap">
+
+        <h1>Instagram Feed</h1>
+        <div id="instafeed"></div> <!--instafeed-->
+    
+        </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,282 @@
+[
+  {
+    "Smoothie_name": "Green Rocket Tonic",
+    "Supper_Greens": "Argular",
+    "Function": "De"
+  },
+  {
+    "Smoothie_name": "Dandelion Tonic",
+    "Supper_Greens": "Dandelion greens",
+    "Function": "C"
+  },
+  {
+    "Smoothie_name": "Insalata",
+    "Supper_Greens": "Green pepper",
+    "Function": "I"
+  },
+  {
+    "Smoothie_name": "Green Giant",
+    "Supper_Greens": "Brocoli",
+    "Function": "DE"
+  },
+  {
+    "Smoothie_name": "Grass Energy",
+    "Supper_Greens": "Argular",
+    "Function": "MB"
+  },
+  {
+    "Smoothie_name": "Summer Fresh",
+    "Supper_Greens": "Basil",
+    "Function": "A"
+  },
+  {
+    "Smoothie_name": "Green Pepper",
+    "Supper_Greens": "Green pepper",
+    "Function": "MB"
+  },
+  {
+    "Smoothie_name": "Beetroot Beauty",
+    "Supper_Greens": "",
+    "Function": "FF"
+  },
+  {
+    "Smoothie_name": "Healer",
+    "Supper_Greens": "Chard",
+    "Function": "I"
+  },
+  {
+    "Smoothie_name": "Energizer",
+    "Supper_Greens": "Kale",
+    "Function": "MBB"
+  },
+  {
+    "Smoothie_name": "Brussels",
+    "Supper_Greens": "Brussel",
+    "Function": "DE"
+  },
+  {
+    "Smoothie_name": "Brain Juice",
+    "Supper_Greens": "Watercress",
+    "Function": "MB"
+  },
+  {
+    "Smoothie_name": "Popeye's Juice",
+    "Supper_Greens": "Spinach",
+    "Function": "MB"
+  },
+  {
+    "Smoothie_name": "Fat Burner",
+    "Supper_Greens": "Kale",
+    "Function": "MB"
+  },
+  {
+    "Smoothie_name": "Digestivo",
+    "Supper_Greens": "Kale",
+    "Function": "BN"
+  },
+  {
+    "Smoothie_name": "Tomato Lover",
+    "Supper_Greens": "Fennel",
+    "Function": "SE"
+  },
+  {
+    "Smoothie_name": "Berry Infectious",
+    "Supper_Greens": "Basil",
+    "Function": "BN"
+  },
+  {
+    "Smoothie_name": "Rasberry Mint",
+    "Supper_Greens": "Mint",
+    "Function": "BS"
+  },
+  {
+    "Smoothie_name": "Strawberry",
+    "Supper_Greens": "Cabbage",
+    "Function": "FF"
+  },
+  {
+    "Smoothie_name": "Detoxifier",
+    "Supper_Greens": "Cabbage",
+    "Function": "SE"
+  },
+  {
+    "Smoothie_name": "Carrot-ene Healer",
+    "Supper_Greens": "",
+    "Function": "I"
+  },
+  {
+    "Smoothie_name": "Cleanser",
+    "Supper_Greens": "Celery",
+    "Function": "SE"
+  },
+  {
+    "Smoothie_name": "Fennel",
+    "Supper_Greens": "Cabbage",
+    "Function": "De"
+  },
+  {
+    "Smoothie_name": "Purple Ginger",
+    "Supper_Greens": "",
+    "Function": "MB"
+  },
+  {
+    "Smoothie_name": "Strawberry Joy",
+    "Supper_Greens": "Bok choy",
+    "Function": "AO"
+  },
+  {
+    "Smoothie_name": "Smooth Spinach Berry",
+    "Supper_Greens": "Spinach",
+    "Function": "BN"
+  },
+  {
+    "Smoothie_name": "Banana Tonic",
+    "Supper_Greens": "Mint",
+    "Function": "D"
+  },
+  {
+    "Smoothie_name": "Tropical Cabbage",
+    "Supper_Greens": "Cabbage",
+    "Function": "MB"
+  },
+  {
+    "Smoothie_name": "Coconut Kale",
+    "Supper_Greens": "Kale",
+    "Function": "I"
+  },
+  {
+    "Smoothie_name": "Hearty Pear",
+    "Supper_Greens": "Kale" "Bok choy",
+    "Function": "DE"
+  },
+  {
+    "Smoothie_name": "High on Fiber",
+    "Supper_Greens": "Bok choy",
+    "Function": "C"
+  },
+  {
+    "Smoothie_name": "Alkaliner",
+    "Supper_Greens": "Kale" "Mint",
+    "Function": "AI"
+  },
+  {
+    "Smoothie_name": "Blueberry Kale",
+    "Supper_Greens": "Kale",
+    "Function": "AI"
+  },
+  {
+    "Smoothie_name": "Peachy",
+    "Supper_Greens": "Spinach" "Mint",
+    "Function": "BS"
+  },
+  {
+    "Smoothie_name": "Avocado",
+    "Supper_Greens": "Parsely",
+    "Function": "BN"
+  },
+  {
+    "Smoothie_name": "Tomato Basil",
+    "Supper_Greens": "Basil",
+    "Function": "SE"
+  },
+  {
+    "Smoothie_name": "Cilantro Pepper",
+    "Supper_Greens": "Cilantro",
+    "Function": "MB"
+  },
+  {
+    "Smoothie_name": "Jalapeno Healer",
+    "Supper_Greens": "Cilantro",
+    "Function": "AI"
+  },
+  {
+    "Smoothie_name": "Fennel Breeze",
+    "Supper_Greens": "Fennel",
+    "Function": "De"
+  },
+  {
+    "Smoothie_name": "Morning Kickstart",
+    "Supper_Greens": "Watercress",
+    "Function": "BS"
+  },
+  {
+    "Smoothie_name": "Fruit and Fiber",
+    "Supper_Greens": "Cilantro",
+    "Function": "De"
+  },
+  {
+    "Smoothie_name": "Vanilla and Figs",
+    "Supper_Greens": "Spinach",
+    "Function": "BN"
+  },
+  {
+    "Smoothie_name": "Pineapple Twist",
+    "Supper_Greens": "Cilantro",
+    "Function": "DE"
+  },
+  {
+    "Smoothie_name": "Nectarine Sour",
+    "Supper_Greens": "Spinach",
+    "Function": "Di"
+  },
+  {
+    "Smoothie_name": "King of the Fruits",
+    "Supper_Greens": "Kale",
+    "Function": "BS"
+  },
+  {
+    "Smoothie_name": "Watermelon",
+    "Supper_Greens": "",
+    "Function": "AO"
+  },
+  {
+    "Smoothie_name": "Green Papaya",
+    "Supper_Greens": "Spinach",
+    "Function": "I"
+  },
+  {
+    "Smoothie_name": "Super Cantaloupe",
+    "Supper_Greens": "Mint",
+    "Function": "BN"
+  },
+  {
+    "Smoothie_name": "Blackcurrant",
+    "Supper_Greens": "",
+    "Function": "I"
+  },
+  {
+    "Smoothie_name": "Aloe Protector",
+    "Supper_Greens": "",
+    "Function": "SE"
+  },
+  {
+    "Smoothie_name": "Goji Tangerine",
+    "Supper_Greens": "Celery",
+    "Function": "BP"
+  },
+  {
+    "Smoothie_name": "Cinnamon-Date Digestive",
+    "Supper_Greens": "Romain",
+    "Function": "BN"
+  },
+  {
+    "Smoothie_name": "Leek and Cucumber",
+    "Supper_Greens": "",
+    "Function": "SE"
+  },
+  {
+    "Smoothie_name": "Watercress",
+    "Supper_Greens": "Watercress",
+    "Function": "BN"
+  },
+  {
+    "Smoothie_name": "Skin Tonic",
+    "Supper_Greens": "",
+    "Function": "BS"
+  },
+  {
+    "Smoothie_name": "Blueberry Chia",
+    "Supper_Greens": "Broccoli",
+    "Function": "AI"
+  }
+]

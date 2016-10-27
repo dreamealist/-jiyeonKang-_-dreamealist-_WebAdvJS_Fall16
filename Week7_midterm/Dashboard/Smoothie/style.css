@@ -1,0 +1,84 @@
+
+
+body {
+    background-color: #FFDF31;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+#header {
+  margin-top:60px;
+  margin-bottom:30px;
+}
+#container {
+    position: absolute;;
+    top: 20px;
+    left: 100px;
+    width: 800px;
+    height: 1000px;
+    border: 0px;
+}
+
+
+
+h1 {
+      position: relative;;
+      margin-top: 100px;
+
+      font-family: 'Roboto:300', sans-serif;
+      font-size: 48px;
+}
+
+img {
+    position:absolute;;
+    margin-top: -260px;
+    margin-bottom: 0px;
+    margin-left: 150px;
+    width: 33%;
+}
+
+h2 {
+  position: relative;
+  margin-top: 0px;
+  margin-right: 150px;
+  margin-left: 200px;
+
+}
+
+
+}
+
+p {
+  display:inline-grid;
+
+}
+
+.button {
+    background-color: white;
+    color: black;
+    border: 0px solid #e7e7e7;
+    width: auto;
+    height: auto;
+    margin-bottom: 20px;
+    padding: 4px 4px;
+    text-align: center;
+    display: inline-block;
+    font-size: 21px;
+    font-family: 'Roboto', sans-serif;
+}
+.button:hover {background-color: #e7e7e7;}
+
+
+h4 {
+      position: relative;;
+      margin-top: 0px;
+      font-family: 'Roboto:900', sans-serif;
+      font-size: 18px;
+}
+
+text{
+	font-size:12px;
+}
+
+#pieChart

@@ -1,0 +1,26 @@
+{"smoothies": {
+    "debug": "on",
+    "Dandelion Tonic": {
+        "green": "dandelion",
+        "function": "Cleansing",
+        "function2": "Diurectic",
+        "function3": "Metabolism Boosting"
+    },
+    "image": {
+        "src": "Images/food.jpg",
+        "name": "food",
+        "hOffset": 250,
+        "vOffset": 250,
+        "alignment": "center"
+    },
+    "text": {
+        "data": "Click Here",
+        "size": 36,
+        "style": "bold",
+        "name": "text1",
+        "hOffset": 250,
+        "vOffset": 100,
+        "alignment": "center",
+        "onMouseUp": "food.opacity = (sun1.opacity / 100) * 90;"
+    }
+}}
